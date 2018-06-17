@@ -10,7 +10,7 @@ ask that you meet some important prerequisites and then get in touch with our de
 
 ### Device
 
-Make sure your device meets the the requirements in the (charter)[https://github.com/LineageOS/charter/blob/master/device-support-requirements.md].
+Make sure your device meets the the requirements in the [charter](https://github.com/LineageOS/charter/blob/master/device-support-requirements.md).
 
 ### Maintainer
 
